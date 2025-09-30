@@ -1,1 +1,4 @@
 jump
+ds 
+dvc
+sdcv
